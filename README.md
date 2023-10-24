@@ -8,8 +8,7 @@
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=funkyboy2k" alt="funkyboy2k" /></a> </p>
-<!--top lenguajes -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FunkyBoy2k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/robinson gutierrez seclen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robinson gutierrez seclen" height="30" width="40" /></a>
@@ -21,7 +20,8 @@
 
 <!--
 **FunkyBoy2k/FunkyBoy2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--top lenguajes -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FunkyBoy2k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
