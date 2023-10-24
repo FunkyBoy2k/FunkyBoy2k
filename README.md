@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FunkyBoy2k)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- STATS DE GITHUB
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FunkyBoy2k)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--top lenguajes -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FunkyBoy2k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Robinson Gutierrez</h1>
