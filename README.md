@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=funkyboy2k" alt="funkyboy2k" /></a> </p>
 
-- 🔭 I’m currently working on **ERP Sikver X Group - SUNARP**
+<p align="left"> <a href="https://twitter.com/bio_robin" target="blank"><img src="https://img.shields.io/twitter/follow/bio_robin?logo=twitter&style=for-the-badge" alt="bio_robin" /></a> </p>
+
+- 🔭 I’m currently working on **ERP Sikver X Group - SUNARP - Oliva Group**
 
 - 🌱 I’m currently learning **Odoo ORM - Python - Docker**
 
