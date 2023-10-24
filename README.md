@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Odoo ORM - Python - Docker**
 
-- 📝 I regularly write articles on [company.serclouds.com](company.serclouds.com)
+- 📝 I regularly write articles on [https://company.serclouds.com/](https://company.serclouds.com/)
 
 - 📫 How to reach me **robinson.gs@outlook.com**
 
