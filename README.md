@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bio_robin" target="blank"><img src="https://img.shields.io/twitter/follow/bio_robin?logo=twitter&style=for-the-badge" alt="bio_robin" /></a> </p>
 
-- 🔭 I’m currently working on **ERP SILVER X GROUP - SUNARP - SERCLOUDS**
+- 🔭 I’m currently working on **ERP Silver X Group - SUNARP - SERCLOUDS**
 
 - 🌱 I’m currently learning **Odoo ORM - Python - Docker**
 
